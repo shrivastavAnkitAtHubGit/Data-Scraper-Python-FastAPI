@@ -21,8 +21,8 @@ This project is a web scraping tool designed to extract product data from a spec
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/scraper-project.git
-    <!-- cd scraper-project -->
+    git clone https://github.com/shrivastavAnkitAtHubGit/Data-Scraper-Python-FastAPI.git
+    cd .\Data-Scraper-Python-FastAPI\
     ```
 
 2. **Create and activate a virtual environment:**
